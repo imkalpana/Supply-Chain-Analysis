@@ -71,6 +71,7 @@ I used MySQL to analyze supply chain data and answer specific questions.
 
 ## Power BI:-
 ![](https://github.com/imkalpana/Supply-Chain-Analysis/blob/main/Dashboard.jpg)
+[Interactive Power Bi Dashbaord](https://app.powerbi.com/view?r=eyJrIjoiYzgzMTQ1YjItMmIwZC00MTBmLWJiOTUtYzZlNTFmNzYyMzA2IiwidCI6ImRmODY3OWNkLWE4MGUtNDVkOC05OWFjLWM4M2VkN2ZmOTVhMCJ9)
 
 In Powe Bi, build charts, graphs, and KPIs to visualize the data and understand it more interactively, along with that, build some slicers to make it more user-friendly to customize the charts and graphs.
 
