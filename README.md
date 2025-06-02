@@ -70,7 +70,7 @@ I used MySQL to analyze supply chain data and answer specific questions.
 🏆 Top 5 Shipping Carriers by Cost Efficiency: Determine the top 5 shipping carriers with the lowest average shipping costs per product shipped.
 
 ## Power BI:-
-Power Bi Dashbaord#########################################################################################################################################################################################################
+![](https://github.com/imkalpana/Supply-Chain-Analysis/blob/main/Dashboard.jpg)
 
 In Powe Bi, build charts, graphs, and KPIs to visualize the data and understand it more interactively, along with that, build some slicers to make it more user-friendly to customize the charts and graphs.
 
